@@ -1,0 +1,20 @@
+.container {
+    border: 1px solid white;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+  
+.image {
+    width: 250px;
+}
+.buttons {
+    display: flex;
+    font-size: 12px;
+}
+.count {
+    margin: 10px;
+}
